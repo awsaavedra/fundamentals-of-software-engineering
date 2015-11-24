@@ -7,7 +7,7 @@
 
 ### Python Directory Structure
   
-  Python
+    .
     ├── language                # Overview of the language and what can be done
     ├── dataStructures          # Numerous useful data structures in python
     ├── Algorithms              # Automated tests (alternatively `spec` or `tests`)
