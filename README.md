@@ -8,5 +8,7 @@
     ├── language                # language, oop, ood, etc.
     ├── dataStructures          # Numerous useful data structures 
     ├── Algorithms              # sorting, shortest path, etc.
-    └── Design_Patterns         # General ways to design code for a reoccuring problem
-
+    ├── Design_Patterns         # General ways to design code for a reoccuring problem
+    ├── version control         # just learn git, plenty of free resources
+    ├── Terminal 				# Learn Bash (cd, ls, etc.:wq)
+    └──	database querying		#I recommend learning SQL

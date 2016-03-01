@@ -18,4 +18,7 @@
 
         g. That's enough, who the hell asks about other sorts? Seriously...
 
-    2.
+    2. Graph operations
+
+
+    3.
