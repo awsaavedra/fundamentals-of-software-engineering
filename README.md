@@ -10,5 +10,5 @@
     ├── Algorithms              # sorting, shortest path, etc.
     ├── Design_Patterns         # General ways to design code for a reoccuring problem
     ├── version control         # just learn git, plenty of free resources
-    ├── Terminal 				# Learn Bash (cd, ls, etc.:wq)
-    └──	database querying		#I recommend learning SQL
+    ├── Terminal                # Learn Bash (cd, ls, etc.)
+    └── database querying		    #I recommend learning SQL
