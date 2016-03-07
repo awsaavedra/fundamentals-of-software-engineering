@@ -71,3 +71,12 @@
 
       __silly way of remembering__: "by forcing everybody to call a setter method,
       we can protect the cat from unacceptable size changes
+
+  ###Encapsulation starter rule of thumb
+
+    -mark your INSTANCE VARIABLES  private and provide public GETTERS.
+
+    -point of GETTERS and SETTERS? You can change your mind latter w/o breaking
+    anybody else's code!
+
+
