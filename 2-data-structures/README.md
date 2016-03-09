@@ -1,5 +1,11 @@
 #Data Structures and Algorithms in Java
 
+##The book I recommend: Steven S. Skiena The Algorithm Design Manual
+  
+    - for implementing the data structures and algorithms I would use a Static
+    language like Java/C++ (plenty of books on implementation)
+
+### Things to know about the Data structure you are using..
     a. Know when to use one data structure over another
     
         -So you need to know the basic operations time complexity
