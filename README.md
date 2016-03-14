@@ -1,4 +1,4 @@
-# fundamentals-of-coding
+#fundamentals-of-coding
     
     Objective: This repository aims to give beginners a strong and comprehensive
     background in fundamental concepts and practices for programming using

@@ -15,3 +15,14 @@
 
    4. [Oracle's Java Tutorial] (https://docs.oracle.com/javase/tutorial/java/index.html)
   **NOTE: The Oracle tutorial is very dry, but has pretty much anything you need**
+
+
+# Javascript material
+
+  Added this subsection for people wanting to learn another common language
+
+  1. [Free Code Camp](http://www.freecodecamp.com/)
+
+  2. [Eloquent Javascript](eloquentjavascript.net)
+  
+  3. **Note to Self** May create a web dev repo
