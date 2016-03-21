@@ -7,7 +7,8 @@
   The following folders have various materials on learning java, but in
   order of learning...
 
-   1. Head First Java ( All chapters )
+   1. [Head First
+      Java](http://www.amazon.com/Head-First-Java-2nd-Edition/dp/0596009208)
 
    2. [Derek Banas Java series] (https://www.quora.com/How-do-I-refresh-my-knowledge-about-Java-within-a-month)
 
