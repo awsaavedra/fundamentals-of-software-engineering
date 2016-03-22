@@ -21,13 +21,19 @@ function listToArray(list){
 function enhanced(list){
   var ar = [];
   for (i in list){
-    ar.push(list.value);
+    ar.push(list.i);
     console.log(ar);
     list = list.rest;
   }
 }
 
-console.log(enhanced({value: 10, rest: {value: 20, rest: {value:30, rest: null}}}));
+function nth(list, n){
+  if( n === 0 )
+    return list.value;
+  else
+    return nth( list.rest, n - 1 );
+}
+//console.log(enhanced({value: 10, rest: {value: 20, rest: {value:30, rest: null}}}));
 
 //console.log(arrayToList([10, 20]));
 // → {value: 10, rest: {value: 20, rest: null}}
@@ -35,5 +41,5 @@ console.log(enhanced({value: 10, rest: {value: 20, rest: {value:30, rest: null}}
 // → [10, 20, 30]
 //console.log(prepend(10, prepend(20, null)));
 // → {value: 10, rest: {value: 20, rest: null}}
-//console.log(nth(arrayToList([10, 20, 30]), 1));
+console.log(nth(arrayToList([10, 20, 30]), 1));
 // → 20

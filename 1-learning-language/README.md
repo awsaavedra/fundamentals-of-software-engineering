@@ -27,6 +27,8 @@
   1. [Free Code Camp](http://www.freecodecamp.com/)
 
   2. [Eloquent Javascript](http://eloquentjavascript.net)
+      
+  [Great series on functional programming](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
   
   3. [Hack reactor remote beta] (http://www.hackreactor.com/remote-beta/)
     
