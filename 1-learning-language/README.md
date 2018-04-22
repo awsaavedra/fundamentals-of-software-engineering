@@ -10,13 +10,13 @@
    1. [Head First
       Java](http://www.amazon.com/Head-First-Java-2nd-Edition/dp/0596009208)
 
-   2. [Derek Banas Java series] (https://www.quora.com/How-do-I-refresh-my-knowledge-about-Java-within-a-month)
+   2. [Derek Banas Java series](https://www.quora.com/How-do-I-refresh-my-knowledge-about-Java-within-a-month)
 
-   3. [Solidify the material] (https://www.quora.com/How-do-I-refresh-my-knowledge-about-Java-within-a-month)
+   3. [Solidify the material](https://www.quora.com/How-do-I-refresh-my-knowledge-about-Java-within-a-month)
 
-   4. [Effective Java] (http://www.amazon.com/Effective-Java-Edition-Joshua-Bloch/dp/0321356683)
+   4. [Effective Java](http://www.amazon.com/Effective-Java-Edition-Joshua-Bloch/dp/0321356683)
    
-   5. [Oracle's Java Tutorial] (https://docs.oracle.com/javase/tutorial/java/index.html)
+   5. [Oracle's Java Tutorial](https://docs.oracle.com/javase/tutorial/java/index.html)
   **NOTE: The Oracle tutorial is very dry, but has pretty much anything you need**
 
 
@@ -30,7 +30,7 @@
       
   [Great series on functional programming](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
   
-  3. [Hack reactor remote beta] (http://www.hackreactor.com/remote-beta/)
+  3. [Hack reactor remote beta](http://www.hackreactor.com/remote-beta/)
     
     **Note: this is a paid program, but basically the Harvard of coding camps
   
