@@ -32,6 +32,4 @@
   
   3. [Hack reactor remote beta](http://www.hackreactor.com/remote-beta/)
     
-    **Note: this is a paid program, but basically the Harvard of coding camps
-  
-  4. **Note to Self** May create a web dev repo
+    Note: this is a paid program, but basically the Harvard of coding camps
