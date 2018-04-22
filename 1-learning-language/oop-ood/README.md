@@ -1,58 +1,61 @@
-OP & OOD from A to Z 
+# Object Oriented Programming & Object Oriented Design from A to Z 
 
-  **YOU SHOULD BE ABLE TO**:
+  ## YOU SHOULD BE ABLE TO:
     
-    --*Have a definition of the idea/concept w/o examples
-    --*Have a couple examples you have rehearsed and can explain and code on the fly 
+    A)Have a definition of the idea/concept w/o examples
+    B)Have a couple examples you have rehearsed and can explain and code on the fly
   
-  1. **The Basic terms:**
+  1. The Basic terms:
   
-    a.**Class**: 
+    a.Class
     
-      a. Base class, Subclass , superclass, 
+      a.Base class, Subclass, superclass
       
-      b. abstract base class (and difference from concrete class)
+      b.Abstract Base Class (and difference from concrete class)
         
         -abstract method
       
-    b.**inheritance**
+    b.Inheritance
       
         a.is a, explain it
-
       
-    c. **class** has...
+    c.Class has...
       
-        a.instance variables (things a class knows about)
+        i.Instance variables (things a class knows about) -- State
       
-        b. methods (things a class does)
+        ii.Methods (things a class does) -- Behavior
       
-    d.**Polymorphism** (v. overriding or overloading)
+    d.Polymorphism (v. Overriding or Overloading)
       
-    e.**Composition/aggregation**
+    e.Composition/aggregation
       
-        a.has a, explain it
+        i.Has a, explain it
       
-        b. Can an object be composed of multiple things? What about mult inheritance?
+        ii.Can an object be composed of multiple things? 
+        
+        iii.What about multiple inheritance?
       
-    f. **Multiple inheritance** and which languages have it
+    f.Multiple inheritance
       
-    g. **Encapsulation**
+    g.Encapsulation
       
-        a. Why do you need it?
+        i. Why do you need it?
+        
+        ii. What do you use it for?
       
-    h. **Interface** ( aka  protocol)
+    h.Interface ( aka  protocol)
       
         a. Know the difference between interface and abstract class
       
-    j.**METHOD**...
+    j.Method
            
-           a.**overriding**
+           i.Overriding
            
-           b.**overloading**(vs. overriding)
+           ii.Overloading (vs. overriding)
           
-           c.**signatures (What is included in one)
+           iii.Signatures (What is included in one)
            
-           d.visibility (e.g. public, private, protected, etc.)
+           vi.Visibility (e.g. public, private, protected, etc.)
       
     k.Objects briefly explained
       
@@ -68,19 +71,25 @@ OP & OOD from A to Z
                     *****instance variable: Tom has 4 legs
                     *****method: Tom runs at 20 MPH
      
-    l.**Objects**
+    l.Objects
       
-        a.Singleton
+        i.Singleton
       
-        b.Initalizer
+        ii.Initalizer
       
-        c.constructor
-      
-        d.instantiation
+        iii.Constructor
+          
+          -Overloading
+ 
+          -When are they called?
+          
+          -Why would you use one instead of an accessor(setter method)?
+          
+        vi.Instantiation
 
-        e. adding more later...
+        v.Initialization
 
-  2. **Object oriented Design (OOD)**:
+  2.Object Oriented Design (OOD):
     
     a.For the OO design weeder question, have them describe:
        
@@ -100,11 +109,11 @@ OP & OOD from A to Z
       
         b. Find some online and try to build the design from scratch
     
-    c.**OOD Concepts**:
+    c.OOD Concepts:
     
         a. KNOW EACH ONE DOWN COLD: Define it, have examples, and why/when to use OOD vs. other 
       
-        b. paradigms (the last goal is a rather advanced thing, don't worry too much)
+        b.Paradigms (the last goal is a rather advanced thing, don't worry too much)
       
         c.Robustness
       
@@ -112,7 +121,7 @@ OP & OOD from A to Z
       
         e.Reusability
     
-    d. Object oriented design principles (OODP):
+    d. Object Oriented Design Principles (OODP):
     
         i)Modularity
         
