@@ -13,7 +13,7 @@
     ├── terminal                # Learn Bash (cd, ls, etc.)
     └── database querying       # I recommend learning SQL
 
-## Big Questions to explore for later
+## Big Questions to explore afterwards
 
 [What is a full stack developer?](https://www.laurencegellert.com/2012/08/what-is-a-full-stack-developer/)
 
