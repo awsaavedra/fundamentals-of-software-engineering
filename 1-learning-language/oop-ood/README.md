@@ -11,9 +11,13 @@
     
       a.Base class, Subclass, superclass
       
-      b.Abstract Base Class (and difference from concrete class)
-        
+      b.Abstract Base Class (and difference from concrete class) 
         -abstract method
+        
+      c.Nested Classes (types of nested classes and their purpose)
+        -inner nested class
+          * inner classes, method local inner classes, anonymous inner classes
+        -static nested classes
       
     b.Inheritance
       
