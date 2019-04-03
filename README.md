@@ -6,13 +6,13 @@
 
 
     ├── language                # Language, Object Oriented Programming, OOD, etc.
-    ├── data-structures          # Numerous useful data structures 
+    ├── data-structures         # Numerous useful data structures 
     ├── algorithms              # sorting, shortest path, etc.
     ├── design-patterns         # General ways to design code for a reoccuring problem
     ├── version-control         # Just learn git, plenty of free resources
     ├── terminal                # Learn Bash (cd, ls, etc.)
-    └── database querying       # I recommend learning SQL
-
+    ├── database-querying       # I recommend learning SQL
+    └── nice-to-haves           # Regex, Discrete Math, Basic Set Theory, Basic Statistics
 
 
 
