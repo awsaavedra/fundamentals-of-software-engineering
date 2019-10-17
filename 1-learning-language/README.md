@@ -18,6 +18,8 @@
    
    5. [Oracle's Java Tutorial](https://docs.oracle.com/javase/tutorial/java/index.html)
   **NOTE: The Oracle tutorial is very dry, but has pretty much anything you need**
+  
+  For a full map of Java related material please see [the-java-repository](https://github.com/awsaavedra/the-java-language)
 
 
 # Javascript material
