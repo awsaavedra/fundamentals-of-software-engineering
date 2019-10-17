@@ -14,6 +14,8 @@ Questions to ask about design patterns
  
 [Full list of Software Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern)
 
+[Want a brain friendly guide to design patterns?](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly-ebook-dp-B00AA36RZY/dp/B00AA36RZY/ref=mt_kindle?_encoding=UTF8&me=&qid=1571287170)
+
 ## Common Design Patterns
 
 ### Creational Patterns
