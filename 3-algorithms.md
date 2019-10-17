@@ -1,11 +1,11 @@
 # Algorithms
 
-##The book I recommend: Steven S. Skiena The Algorithm Design Manual
+## The book I recommend: Steven S. Skiena The Algorithm Design Manual
   
   - for implementing the data structures and algorithms I would use a Static
     language like Java/C++ (plenty of books on implementation)
 
-###bigocheatsheet.com
+### bigocheatsheet.com
 
     1. Sorting Algorithms: Know time and space complexity
 
