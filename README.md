@@ -11,7 +11,7 @@
     ├── design-patterns         # General ways to design code for a reoccuring problem
     ├── version-control         # Just learn git, plenty of free resources
     ├── terminal                # Learn Bash (cd, ls, etc.)
-    ├── database-querying       # I recommend learning SQL
+    ├── database                # I recommend learning SQL, data schemas, and relational vs non-relational DB
     └── nice-to-haves           # Regex, Discrete Math, Basic Set Theory, Basic Statistics
 
 
