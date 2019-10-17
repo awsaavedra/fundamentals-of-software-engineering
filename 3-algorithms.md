@@ -7,45 +7,43 @@
 
 ### bigocheatsheet.com
 
-    1. Sorting Algorithms: Know time and space complexity
+1. Sorting Algorithms: Know time and space complexity
 
-        a. Quicksort
+    a. Quicksort
 
-        b. Mergesort
+    b. Mergesort
 
-        c. Timsort
+    c. Timsort
 
-        d. Heapsort
+    d. Heapsort
 
-        e. Bubblesort 
+    e. Bubblesort 
 
-        f. Insertion Sort
+    f. Insertion Sort
 
-        g. That's enough, who asks about other sorts? Seriously...
+2. Heap operations
 
-    2. Heap operations
+  a. Linked List (sorted and unsorted)
 
-      a. Linked List (sorted and unsorted)
+  b. Binary Heap (others exist, up to you for exotic stuff) 
 
-      b. Binary Heap (others exist, up to you for exotic stuff) 
+3. Graph Traversal
 
-    3. Graph Traversal
+  a. Depth first search
 
-      a. Depth first search
+  b. Breadth first search
 
-      b. Breadth first search
+  c. Binary Tree Traversals
 
-      c. Binary Tree Traversals
+    i) Preorder
 
-        i) Preorder
+    ii) Postorder
 
-        ii) Postorder
-
-        iii) Inorder
+    iii) Inorder
 
 
-      d. Shortest Path algorithms
-        
-        i) Dijkstra's algorithm
+  d. Shortest Path algorithms
+
+    i) Dijkstra's algorithm
 
       
