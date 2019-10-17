@@ -1,11 +1,10 @@
-# Algorithms
+# Algorithms [WIP]
 
-## The book I recommend: Steven S. Skiena The Algorithm Design Manual
-  
-  - for implementing the data structures and algorithms I would use a Static
-    language like Java/C++ (plenty of books on implementation)
+High level question
 
-### bigocheatsheet.com
+1. How and when do I use this algorithm?
+
+# Basic Algorithms to know
 
 1. Sorting Algorithms: Know time and space complexity
 
@@ -46,4 +45,8 @@
 
     i) Dijkstra's algorithm
 
-      
+## Resources
+
+1. Steven S. Skiena The Algorithm Design Manual
+
+2. [Princeton Algorithms Book](https://algs4.cs.princeton.edu/home/)
