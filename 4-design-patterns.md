@@ -80,5 +80,8 @@ Ah, you read until the end. So I'll state an opinion here:
 
 [I think they show a fundamental flaw of the language design and I am not alone.](https://en.wikipedia.org/wiki/Software_design_pattern#Criticism)
 
+# Additional Material
+
+1. Head First Design Patterns
 
   
